@@ -37,3 +37,8 @@
 </table>
 
 这是另一个普通段落。
+
+
+![ddd](https://github.com/Knbai/-java_web-/blob/master/QQ%E6%88%AA%E5%9B%BE20190409234633.jpg)
+
+![dd](http://pic1.nipic.com/2008-08-14/2008814183939909_2.jpg)
